@@ -5,6 +5,8 @@
 - I do commissions for mainly art and programming
 - Willing to collaborate to learn new skills
 
+Practice Projects
+- [ ] youtube short auto uploader
 Projects
 - [ ] [Using ML and chemistry to make an interactive project](https://github.com/SynAeri/Organicle)
 - [ ] [A shader for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
