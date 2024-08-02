@@ -7,11 +7,14 @@
 
 Practice Projects
 - [ ] youtube short auto uploader
+
+
 Projects
 - [ ] [Using ML and chemistry to make an interactive project](https://github.com/SynAeri/Organicle)
 - [ ] [A shader for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
-- [ ] 2 art works done
+- [X] 2 art sketches done
 - [ ] rpg inspired goal app
+- [ ] Assistant AI
 
 <!---
 SynAeri/SynAeri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
