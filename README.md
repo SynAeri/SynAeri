@@ -10,7 +10,7 @@ Practice Projects
 
 
 Projects
-- [ ] [Using ML and chemistry to make an interactive project](https://github.com/SynAeri/Organicle)
+- [X] [Using ML and chemistry to make an interactive project](https://github.com/SynAeri/Organicle)
 - [ ] [A shader for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
 - [X] 2 art sketches done
 - [X] New Gunpla
