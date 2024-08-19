@@ -1,6 +1,7 @@
 ヽ(´ー`)ノ Hi, I’m @SynAeri
 - Interested in curiosities
 - Currently learning web development
+- Currently Having fun with Beautifulsoup API and web-scraping
 - I’m looking to collaborate on anything tbh
 - I do commissions for mainly art and programming
 - Willing to collaborate to learn new skills
