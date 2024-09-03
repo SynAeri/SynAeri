@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synaeri&label=Profile%20views&color=0e75b6&style=flat" alt="synaeri" /> </p>
 
-- 🔭 I’m currently working on [Improving Organicle](https://github.com/SynAeri/Organicle)
+- 🔭 I’m currently working on -> [Improving Organicle](https://github.com/SynAeri/Organicle)
 
 - I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
 
-- Practice Projects **Youtube Short Uploader**
+- Practice Projects -> **Youtube Short Uploader**
 
-- Looking to do next [A shade for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
+- Looking to do next -> [A shade for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
 
 - Contact -> [Github/Discord/Twitter](Github/Discord/Twitter)
 
