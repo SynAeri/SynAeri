@@ -7,9 +7,11 @@
 
 - I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
 
-- Practice Projects -> **Youtube Short Uploader**
-
 - Looking to do next -> [A shade for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
+
+
+
+- Practice Projects -> **Youtube Short Uploader**
 
 - Contact -> [Github/Discord/Twitter](Github/Discord/Twitter)
 
