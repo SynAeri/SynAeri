@@ -2,7 +2,7 @@
 <h3 align="center">A student impulsively in love with curiosities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synaeri&label=Profile%20views&color=0e75b6&style=flat" alt="synaeri" /> </p>
-- ⭐ Published projects - [Chemcell, a py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell/0.1/)
+- ⭐ Published projects - [Chemcell, a py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell)
 
 - 🔭 I’m currently working on -> [A shade for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
 
