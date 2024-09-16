@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synaeri&label=Profile%20views&color=0e75b6&style=flat" alt="synaeri" /> </p>
 - ⭐ Published projects - Chemcell, a .py package for tabulating data at bulk with added flexibility -> (https://pypi.org/project/chemcell)
 
-- 🔭 I’m currently working on -> [A shade for a game using ASCII](https://github.com/SynAeri/ASCII_Shader)
+- 🔭 I’m currently working on -> [A shade for a game using ASCII](https://github.com/SynAeri/ASCII_Shader),
+- 🔭 I’m currently working on -> [Lancer - A hackathon team organising based bot for discord](https://github.com/SynAeri/ASCII_Shader),
 
 - I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
 
