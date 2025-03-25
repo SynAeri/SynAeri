@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on -> [Faust - Personal AI work management and general]([https://github.com/SynAeri/ASCII_Shader](https://github.com/SynAeri/Faust-reluctant-assistant)),
 - 🔭 I’m currently working on -> [Project Lancer - A hackathon team organising based bot for discord](https://github.com/SynAeri/ASCII_Shader),
+- 🔭 I’m currently working on -> [Hackathon competition]
 
 - I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
 
