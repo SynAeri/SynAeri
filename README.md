@@ -1,12 +1,20 @@
-<h1 align="center">ヽ(´ー`)ノ Hi, I’m @SynAeri</h1>
-<h3 align="center">A student impulsively in love with curiosities</h3>
+### Hi there! I'm **@SynAeri** ヽ(´ー`)ノ
+#### *A student impulsively in love with curiosities*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=synaeri&label=Profile%20views&color=0e75b6&style=flat" alt="synaeri" /> </p>
-- ⭐ Published projects - Chemcell, a .py package for tabulating data at bulk with added flexibility -> (https://pypi.org/project/chemcell)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=synaeri&label=Profile%20views&color=0e75b6&style=flat" alt="synaeri" />
+</p>
 
-- 🔭 I’m currently working on -> [Faust - Personal AI work management and general]([https://github.com/SynAeri/ASCII_Shader](https://github.com/SynAeri/Faust-reluctant-assistant)),
-- 🔭 I’m currently working on -> [Project Lancer - A hackathon team organising based bot for discord](https://github.com/SynAeri/ASCII_Shader),
-- 🔭 I’m currently working on -> [Hackathon competition]
+---
+### ⭐ Published Projects
+- Chemcell, a .py package for tabulating data at bulk with added flexibility -> (https://pypi.org/project/chemcell)
+---
+
+### 🔭 Currently working on
+- [Hackathon competition]
+- [Faust - Personal AI work management and general]([https://github.com/SynAeri/ASCII_Shader](https://github.com/SynAeri/Faust-reluctant-assistant)),
+- [Project Lancer - A hackathon team organising based bot for discord](https://github.com/SynAeri/ASCII_Shader),
+---
 
 - I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
 
