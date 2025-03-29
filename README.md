@@ -23,10 +23,6 @@
   
 - Backburner -> [Improving Chemcell](https://github.com/SynAeri/Organicle)
 
-
-
-- Practice Projects -> **Youtube Short Uploader**
-
 - Contact -> [Github/Discord/Twitter](Github/Discord/Twitter)
 
 - Commissions -> **Art (digital art, pixel art), programming, hanging around**
