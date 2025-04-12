@@ -18,8 +18,7 @@
 
 - I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
 
-- Looking to do next -> Bratpt
-- Looking to see if I can do next -> Checking what taste my friend has in woman based on data taken and using a machine learning algorithm (Permission asked)
+- Looking to do next -> Personal Project :)
   
 - Backburner -> [Improving Chemcell](https://github.com/SynAeri/Organicle)
 
