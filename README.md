@@ -12,7 +12,7 @@
 
 ### 🔭 Currently working on
 - [Hackathon competition]
-- [Faust - Personal AI work management and general]([https://github.com/SynAeri/ASCII_Shader](https://github.com/SynAeri/Faust-reluctant-assistant)),
+- [Faust - Personal AI work management and general]([https://github.com/SynAeri/ASCII_Shader](https://github.com/SynAeri/Faust-reluctant-assistant)), <-- A voice for it
 - [Project Lancer - A hackathon team organising based bot for discord](https://github.com/SynAeri/ASCII_Shader),
 ---
 
