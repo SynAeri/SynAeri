@@ -16,7 +16,7 @@
 - [Project Lancer - discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
 
-- I’m currently learning -> **web development, modelling, pixel art, preparing for a AWS cert**
+- I’m currently learning -> **web development, <del>modelling</del>, pixel art, preparing for a AWS cert**
 
 - Looking to do next -> Personal Project :)
   
@@ -24,7 +24,7 @@
 
 - Contact -> [Github/Discord/Twitter](Github/Discord/Twitter)
 
-- Commissions -> **Art (digital art, pixel art), programming, hanging around**
+- Commissions -> **Art (digital art, pixel art), programming**
 
 - Looking to know more -> **N/A**
 
