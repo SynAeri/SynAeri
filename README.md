@@ -21,7 +21,7 @@
   
 - Backburner -> [Improving Chemcell](https://github.com/SynAeri/Organicle)
 
-- Contact -> [Github/Discord/Twitter](Github/Discord/Twitter)
+- Contact -> Github/Discord/Twitter
 
 - Commissions -> **Art (digital art, pixel art), programming**
 
