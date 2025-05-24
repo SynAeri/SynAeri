@@ -7,8 +7,8 @@
 
 ---
 ### ⭐ Published Projects
-- Chemcell, a .py package for tabulating data at bulk with added flexibility -> (https://pypi.org/project/chemcell)
-- NixOS/Neovim Configuration -> (https://github.com/SynAeri/Neovim-Configuration)
+- [Chemcell, a .py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell)
+- [NixOS/Neovim Configuration](https://github.com/SynAeri/Neovim-Configuration)
 ---
 
 ### 🔭 Currently working on
