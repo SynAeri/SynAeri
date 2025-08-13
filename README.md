@@ -9,6 +9,7 @@
 ### ⭐ Published Projects
 - [Chemcell, a .py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell)
 - [NixOS/Neovim Configuration](https://github.com/SynAeri/Neovim-Configuration)
+- [Quo,a financial risk analyser](https://github.com/SynAeri/Quo)
 ---
 
 ### 🔭 Currently working on
@@ -16,9 +17,9 @@
 - [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
 
-- I’m currently learning -> **web development, <del>modelling</del>, pixel art, preparing for a AWS cert**
+- I’m currently learning -> **web development, <del>modelling</del>, pixel art**
 
-- Looking to do next -> Personal Project :)
+- Looking to do next -> Personal Project(s) and one big thigy thing
   
 - Backburner -> [Improving Chemcell](https://github.com/SynAeri/Organicle)
 
@@ -32,6 +33,7 @@
 <p align="left">
 <a href="https://twitter.com/synoaeri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="synoaeri" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/earie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="earie_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
