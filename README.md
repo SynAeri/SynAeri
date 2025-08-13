@@ -13,7 +13,7 @@
 ---
 
 ### 🔭 Currently working on
-- [Hackathon competition]
+- Kinda chilling atm
 - [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
 
