@@ -14,6 +14,7 @@
 
 ### 🔭 Currently working on
 - Kinda chilling atm
+- Website portfolio thing
 - [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
 
