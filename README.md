@@ -13,8 +13,9 @@
 ---
 
 ### 🔭 Currently working on
-- Kinda chilling atm
+- Give me my 3 spark uma musume already DDD;
 - Website portfolio thing
+- Learning a new framework(s)
 - [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
 
