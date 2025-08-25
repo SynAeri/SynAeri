@@ -7,7 +7,9 @@
 
 ---
 ### Do you believe in magic? 
+
 If so cool :)
+
 ---
 ### ⭐ Published Projects
 - [Chemcell, a .py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell)
