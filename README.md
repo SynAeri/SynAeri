@@ -22,8 +22,8 @@ No problem
 ---
 
 ### 🔭 Currently working on
-- Give me my 3 spark uma musume already DDD;
-- Website portfolio thing
+- Deploying Quo
+- <del>Website portfolio thing</del> Some others website thingy
 - Learning a new framework(s)
 - [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
