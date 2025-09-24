@@ -32,7 +32,7 @@ No problem
 
 - I’m currently learning -> **web development, <del>modelling</del>, pixel art**
 
-- Looking to do next -> Personal Project(s) and one big thigy thing
+- Looking to do next -> Personal Project(s) 
   
 - Backburner -> [Improving Chemcell](https://github.com/SynAeri/Organicle)
 
