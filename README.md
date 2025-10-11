@@ -23,11 +23,11 @@ No problem
 ---
 
 ### 🔭 Currently working on
+- Super Uber cool Rust Learning Project :)
 - DSA Trek (Road to 500)
 - Deploying Quo
 - Project Paradise Lost
 - <del>Website portfolio thing</del> Some others website thingy
-- Learning a new framework(s)
 - [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
 
