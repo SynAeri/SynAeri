@@ -6,15 +6,6 @@
 </p>
 
 ---
-### Do you believe in magic? 
-
-If so cool :)
-
-### Visual Believer?
-
-No problem
-
----
 ### ⭐ Published Projects
 - [Chemcell, a .py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell)
 - [NixOS/Neovim Configuration](https://github.com/SynAeri/Neovim-Configuration)
@@ -28,10 +19,7 @@ No problem
 - Deploying Quo
 - Project Paradise Lost
 - <del>Website portfolio thing</del> Some others website thingy
-- [discord team organising bot](https://github.com/SynAeri/ASCII_Shader),
 ---
-
-- I’m currently learning -> **web development, <del>modelling</del>, pixel art**
 
 - Looking to do next -> Personal Project(s) 
   
