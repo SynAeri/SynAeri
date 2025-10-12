@@ -19,7 +19,7 @@ No problem
 - [Chemcell, a .py package for tabulating data at bulk with added flexibility](https://pypi.org/project/chemcell)
 - [NixOS/Neovim Configuration](https://github.com/SynAeri/Neovim-Configuration)
 - [Quo,a financial risk analyser](https://github.com/SynAeri/Quo)
-- [Fisher- X](https://github.com/mihirpatel1112/Fisher-X)
+- [Fisher- X NASA Space apps challenge, predicting Air Quality Index](https://github.com/mihirpatel1112/Fisher-X)
 ---
 
 ### 🔭 Currently working on
