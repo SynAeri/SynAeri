@@ -72,7 +72,7 @@
 <h3 align="left">⭐ Published Projects</h3>
 
 - [**Chemcell**](https://pypi.org/project/chemcell) - A .py package for tabulating data at bulk with added flexibility
-- [**RandomGalleryGenerator**](https://pyndm.vercel.app/) - Prim Algorithm inspired autogeneration of portraits and galleries
+- [**Project Bacchus**](https://pyndm.vercel.app/) - Prim Algorithm inspired autogeneration of portraits and galleries
 - [**NixOS/Neovim Configuration**](https://github.com/SynAeri/Neovim-Configuration) - My personal development environment setup
 - [**Quo**](https://github.com/SynAeri/Quo) - A financial risk analyser
 - [**Fisher-X**](https://github.com/mihirpatel1112/Fisher-X) - NASA Space Apps Challenge project for predicting Air Quality Index
