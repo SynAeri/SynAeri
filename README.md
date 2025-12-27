@@ -80,11 +80,8 @@
 ---
 
 ### 🔭 Currently working on
-- Super Uber cool Rust Learning Project :)
-- DSA Trek (Road to 500)
-- Deploying Quo
 - Project Paradise Lost
-- <del>Website portfolio thing</del> Some others website thingy
+- DSA Trek (Road to 500)
 ---
 
 - Looking to do next -> Personal Project(s) 
