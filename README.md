@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A student impulsively in love with curiosities</p>
+<p align="left">𝘼 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙞𝙢𝙥𝙪𝙡𝙨𝙞𝙫𝙚𝙡𝙮 𝙞𝙣 𝙡𝙤𝙫𝙚 𝙬𝙞𝙩𝙝 𝙘𝙪𝙧𝙞𝙤𝙨𝙞𝙩𝙞𝙚𝙨</p>
 
 ###
 
