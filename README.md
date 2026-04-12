@@ -76,12 +76,15 @@
 - [**NixOS/Neovim Configuration**](https://github.com/SynAeri/Neovim-Configuration) - My personal development environment setup
 - [**Quo**](https://github.com/SynAeri/Quo) - A financial risk analyser
 - [**Fisher-X**](https://github.com/mihirpatel1112/Fisher-X) - NASA Space Apps Challenge project for predicting Air Quality Index
+- [**Cervantes**](https://github.com/SynAeri/Cervantes) - Redefine teacher formal assessments through visual novels
 
 ---
 
 ### 🔭 Currently working on
 - Project Paradise Lost
 - DSA Trek (Road to 500)
+- Spatial Computing projects
+- Visual Novel based projects
 ---
 
 - Looking to do next -> Personal Project(s) 
