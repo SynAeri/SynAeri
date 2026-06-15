@@ -69,8 +69,8 @@
 ### 🔭 Currently working on
 - Project Paradise Lost
 - DSA Trek (Road to 500)
-- Spatial Computing projects
-- Visual Novel based projects
+- Spatial Computing projects + Visual Novel based projects
+- Open Source Contribution - probably integration
 ---
 
 - Looking to do next -> Personal Project(s) 
